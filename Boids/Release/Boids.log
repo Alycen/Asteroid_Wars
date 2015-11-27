@@ -1,0 +1,32 @@
+﻿  Boid.cpp
+c:\users\lab422\downloads\flock(1)\flock\boids\Boid.h(42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\lab422\downloads\flock(1)\flock\boids\Boid.h(53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\lab422\downloads\flock(1)\flock\boids\Boid.h(57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Boid.cpp(45): warning C4018: '<': signed/unsigned mismatch
+Boid.cpp(108): warning C4018: '<': signed/unsigned mismatch
+Boid.cpp(147): warning C4018: '<': signed/unsigned mismatch
+Boid.cpp(158): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Boid.cpp(186): warning C4305: 'argument': truncation from 'double' to 'float'
+  Flock.cpp
+c:\users\lab422\downloads\flock(1)\flock\boids\Boid.h(42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\lab422\downloads\flock(1)\flock\boids\Boid.h(53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\lab422\downloads\flock(1)\flock\boids\Boid.h(57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Flock.cpp(29): warning C4018: '<': signed/unsigned mismatch
+Flock.cpp(38): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+c:\users\lab422\downloads\flock(1)\flock\boids\Boid.h(42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\lab422\downloads\flock(1)\flock\boids\Boid.h(53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\lab422\downloads\flock(1)\flock\boids\Boid.h(57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(43): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+main.cpp(86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(90): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(108): warning C4018: '<': signed/unsigned mismatch
+  Pvector.cpp
+Pvector.cpp(88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Pvector.cpp(135): warning C4305: 'return': truncation from 'double' to 'float'
+Pvector.cpp(140): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  All 286 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Boids.vcxproj -> C:\Users\lab422\Downloads\Flock(1)\Flock\Release\Flock.exe
